@@ -11,7 +11,7 @@
 - 🧩 Interests: AI, Security, UX, Embedded Systems
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arshia-sharma-71a705336/)  
 📫 Email: arshia15854@gmail.com
 
 ## 💻 Tech Stack:
