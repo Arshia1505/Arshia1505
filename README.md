@@ -25,7 +25,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arshia1505)](https://git.io/streak-stats)
+## 🔥 GitHub Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arshia1505&theme=radical)](https://git.io/streak-stats)
 
 
 
